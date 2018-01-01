@@ -13,6 +13,6 @@
 说明：
 
 - 调用Google TTS引擎前，先将ly-tts.txt中的逗号和分号替换成句号，生成的ly-tts.mp3节奏感比较好。我觉得这也许和具体的TTS引擎有关，所以没有直接在ly-tts.txt上改。
-- 本项目的主要工作集中于ly-tts.txt。有声书制作过程中用到的代码都比较简单直接，所以没有一并提供。
+- 本项目的主要工作集中于ly-tts.txt。有声书制作过程中用到的代码比较简单直接，所以没有一并提供。
 
 详细说明：http://www.abolybook.org/ly-tts-announcement
